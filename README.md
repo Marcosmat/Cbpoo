@@ -2,6 +2,12 @@
 
 ## Avaliação de Programação Orientada a Objetos
 
+Aluno: Marcos Vinicius dos Santos Gomes
+
+Professor: Islame Felipe
+
+Turma: MATA55 - T2
+
 ### Login de General Chair: 
 #### CPF: 1 2 3 4 5 6 7 8 9 7 8
 #### Senha: 1 2 3 4 5
