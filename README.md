@@ -8,6 +8,10 @@ Professor: Islame Felipe
 
 Turma: MATA55 - T2
 
+
+### Algumas informações essenciais: 
+
+
 ### Login de General Chair: 
 #### CPF: 1 2 3 4 5 6 7 8 9 7 8
 #### Senha: 1 2 3 4 5
@@ -18,7 +22,7 @@ Turma: MATA55 - T2
 #### CPF: 1 2 3 4 5 6 7 8 9 9 8
 #### Senha: 1 2 3 4 5
 ## --------------------------------------------------------------------
-### Sequencia de funcionamento ate aprovar artigo:
+### Sequencia de funcionamento até aprovar artigo:
 
 1 - Cadastrar pelo menos 1 autor;
 
